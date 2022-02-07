@@ -1,0 +1,8 @@
+Core count is to be in the interval of 48 to 52.
+The cost must be greater than 2149.
+Processor type d has 2 cores, uses 1 square centimeters, and costs 1 dollars.
+Processor type c has 4 cores, uses 2 square centimeters, and costs 10 dollars.
+Processor type b has 8 cores, uses 3 square centimeters, and costs 100 dollars.
+Processor type a has 16 cores, uses 4 square centimeters, and costs 1000 dollars.
+The area must be in the range of 14 to 18.
+
