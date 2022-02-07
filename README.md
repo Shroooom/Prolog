@@ -1,5 +1,7 @@
 # Prolog
 
+--HW3 ProgLang--
+
 relations.erl is a set of rules that will form a family tree with statements from windsor.erl
 
 part2.erl is a natural language processing program that will read in definitions of processors and constraints on the processor attributes: core count, area, and cost. Once several definitions are
